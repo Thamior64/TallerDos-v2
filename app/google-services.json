@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "922457207850",
+    "firebase_url": "https://tallerdos2dos.firebaseio.com",
+    "project_id": "tallerdos2dos",
+    "storage_bucket": "tallerdos2dos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922457207850:android:c3c8f99691c5d498",
+        "android_client_info": {
+          "package_name": "com.example.joseossa.tallerdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922457207850-ovoaohm9f04tf0lptk9c6inefvvrgjlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joseossa.tallerdos",
+            "certificate_hash": "4b7aa6c63962eea60f6db1f7c72c8f6bd54b47a4"
+          }
+        },
+        {
+          "client_id": "922457207850-9c3m2cio2bj7uo89okkpsov9r3sch788.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joseossa.tallerdos",
+            "certificate_hash": "9d6a4a5148a85fb1608ba1705939fc4137f983ad"
+          }
+        },
+        {
+          "client_id": "922457207850-rnju3ej6bsbcqkqnhsnuj975vvte4o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohCs2h3WVPfP4C9d8O7X3EA1mUsz-Tos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922457207850-rnju3ej6bsbcqkqnhsnuj975vvte4o8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
